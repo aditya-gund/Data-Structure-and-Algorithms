@@ -6,20 +6,7 @@ Welcome to my repository dedicated to Data Structures and Algorithms! Here you'l
 
 - [Introduction](#introduction)
 - [Data Structures](#data-structures)
-  - [Arrays](#arrays)
-  - [Linked Lists](#linked-lists)
-  - [Stacks](#stacks)
-  - [Queues](#queues)
-  - [Trees](#trees)
-  - [Graphs](#graphs)
-  - [Hash Tables](#hash-tables)
 - [Algorithms](#algorithms)
-  - [Sorting](#sorting)
-  - [Searching](#searching)
-  - [Graph Algorithms](#graph-algorithms)
-  - [Dynamic Programming](#dynamic-programming)
-  - [String Algorithms](#string-algorithms)
-  - [Greedy Algorithms](#greedy-algorithms)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -31,74 +18,28 @@ Understanding data structures and algorithms is crucial for any software develop
 
 Explore the following data structures:
 
-### Arrays <a name="arrays"></a>
+- [Arrays](#arrays) 📚
+- [Linked Lists](#linked-lists) 🔗
+- [Stacks](#stacks) 📦
+- [Queues](#queues) 🧳
+- [Trees](#trees) 🌳
+- [Graphs](#graphs) 📊
+- [Hash Tables](#hash-tables) 🔑
 
-- Explanation and examples...
-- Code implementation...
-
-### Linked Lists <a name="linked-lists"></a>
-
-- Explanation and examples...
-- Code implementation...
-
-### Stacks <a name="stacks"></a>
-
-- Explanation and examples...
-- Code implementation...
-
-### Queues <a name="queues"></a>
-
-- Explanation and examples...
-- Code implementation...
-
-### Trees <a name="trees"></a>
-
-- Explanation and examples...
-- Code implementation...
-
-### Graphs <a name="graphs"></a>
-
-- Explanation and examples...
-- Code implementation...
-
-### Hash Tables <a name="hash-tables"></a>
-
-- Explanation and examples...
-- Code implementation...
+Each data structure comes with detailed explanations, implementations in various programming languages, and example usage.
 
 ## Algorithms
 
 Discover various algorithms including:
 
-### Sorting <a name="sorting"></a>
+- [Sorting](#sorting) 🔄
+- [Searching](#searching) 🔍
+- [Graph Algorithms](#graph-algorithms) 🌐
+- [Dynamic Programming](#dynamic-programming) 🧠
+- [String Algorithms](#string-algorithms) 📝
+- [Greedy Algorithms](#greedy-algorithms) 💡
 
-- Explanation and examples...
-- Code implementation...
-
-### Searching <a name="searching"></a>
-
-- Explanation and examples...
-- Code implementation...
-
-### Graph Algorithms <a name="graph-algorithms"></a>
-
-- Explanation and examples...
-- Code implementation...
-
-### Dynamic Programming <a name="dynamic-programming"></a>
-
-- Explanation and examples...
-- Code implementation...
-
-### String Algorithms <a name="string-algorithms"></a>
-
-- Explanation and examples...
-- Code implementation...
-
-### Greedy Algorithms <a name="greedy-algorithms"></a>
-
-- Explanation and examples...
-- Code implementation...
+Each algorithm is thoroughly explained, and you'll find code implementations in languages like Python, Java, C++, and more.
 
 ## Contributing
 
